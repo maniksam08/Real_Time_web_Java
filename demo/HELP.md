@@ -1,4 +1,6 @@
 # Getting Started
+This Project is a demo project to stimulate the working of a real time chat application using spring framework.
+This project is for educational purposes only.
 
 ### Reference Documentation
 For further reference, please consider the following sections:
